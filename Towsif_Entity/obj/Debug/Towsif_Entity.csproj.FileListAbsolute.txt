@@ -1,0 +1,12 @@
+E:\Projects\CRUD\mvc normal\TowsifStart\Towsif_Entity\obj\Debug\Towsif_Entity.csprojAssemblyReference.cache
+E:\Projects\CRUD\mvc normal\TowsifStart\Towsif_Entity\obj\Debug\Towsif_Entity.csproj.CoreCompileInputs.cache
+E:\Projects\CRUD\mvc normal\TowsifStart\Towsif_Entity\bin\Debug\Towsif_Entity.dll.config
+E:\Projects\CRUD\mvc normal\TowsifStart\Towsif_Entity\bin\Debug\Towsif_Entity.dll
+E:\Projects\CRUD\mvc normal\TowsifStart\Towsif_Entity\bin\Debug\Towsif_Entity.pdb
+E:\Projects\CRUD\mvc normal\TowsifStart\Towsif_Entity\bin\Debug\EntityFramework.dll
+E:\Projects\CRUD\mvc normal\TowsifStart\Towsif_Entity\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\CRUD\mvc normal\TowsifStart\Towsif_Entity\bin\Debug\EntityFramework.xml
+E:\Projects\CRUD\mvc normal\TowsifStart\Towsif_Entity\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\CRUD\mvc normal\TowsifStart\Towsif_Entity\obj\Debug\Towsif_Entity.csproj.CopyComplete
+E:\Projects\CRUD\mvc normal\TowsifStart\Towsif_Entity\obj\Debug\Towsif_Entity.dll
+E:\Projects\CRUD\mvc normal\TowsifStart\Towsif_Entity\obj\Debug\Towsif_Entity.pdb
